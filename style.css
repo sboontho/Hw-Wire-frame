@@ -1,0 +1,27 @@
+h1{
+    background-color: "#ebebeb";
+    text-align: center;
+    padding: 10px;
+    color: "#777";
+}
+
+h2{
+    text-align: left;
+}
+#mainsection{
+    float:left;
+}
+
+#aswithheading{
+    float:right;
+}
+
+#container{
+    width: 960px;
+    margin: auto;
+    font-size: "18px"
+    font-family: "Arial", "Helvetica New", "Helvetica", "Sans-serif"; 
+    color: #777;
+
+    
+}
